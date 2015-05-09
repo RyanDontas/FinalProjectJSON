@@ -2,16 +2,16 @@
   "traderoutes": [{
     "silkRoad": [
 {
-        "beijing": "Extending 4,000 miles (6,437 kilometers), the Silk Road derives its name from the lucrative trade in Chinese silk carried out along its length, beginning during the Han dynasty (206 BC – 220 AD). The Central Asian sections of the trade routes were expanded around 114 BC by the Han dynasty, largely through the missions and explorations of Chinese imperial envoy, Zhang Qian. The Chinese took great interest in the safety of their trade products and extended the Great Wall of China to ensure the protection of the trade route."
+        "description": "Extending 4,000 miles (6,437 kilometers), the Silk Road derives its name from the lucrative trade in Chinese silk carried out along its length, beginning during the Han dynasty (206 BC – 220 AD). The Central Asian sections of the trade routes were expanded around 114 BC by the Han dynasty, largely through the missions and explorations of Chinese imperial envoy, Zhang Qian. The Chinese took great interest in the safety of their trade products and extended the Great Wall of China to ensure the protection of the trade route."
 },
 {       
-        "astana": "Following contacts between metropolitan China and nomadic western border territories in the 8th century BC, gold was introduced from Central Asia, and Chinese jade carvers began to make imitation designs of the steppes, adopting the Scythian-style animal art of the steppes (depictions of animals locked in combat). This style is particularly reflected in the rectangular belt plaques made of gold and bronze with alternate versions in jade and steatite."
+        "description": "Following contacts between metropolitan China and nomadic western border territories in the 8th century BC, gold was introduced from Central Asia, and Chinese jade carvers began to make imitation designs of the steppes, adopting the Scythian-style animal art of the steppes (depictions of animals locked in combat). This style is particularly reflected in the rectangular belt plaques made of gold and bronze with alternate versions in jade and steatite."
 },
 { 
-          "tehran": "A maritime Silk Route opened up between Chinese-controlled Giao Chỉ (centred in modern Vietnam, near Hanoi), probably by the 1st century. It extended, via ports on the coasts of India and Sri Lanka, all the way to Roman-controlled ports in Egypt and the Nabataean territories on the northeastern coast of the Red Sea."
+        "description": "A maritime Silk Route opened up between Chinese-controlled Giao Chỉ (centred in modern Vietnam, near Hanoi), probably by the 1st century. It extended, via ports on the coasts of India and Sri Lanka, all the way to Roman-controlled ports in Egypt and the Nabataean territories on the northeastern coast of the Red Sea."
 },
 { 
-          "istanbul": "By the time of Herodotus (c. 475 BC), the Royal Road of the Persian Empire ran some 2,857 km (1,775 mi) from the city of Susa on the Karun (250 km (155 mi) east of the Tigris) to the port of Smyrna (modern İzmir in Turkey) on the Aegean Sea. It was maintained and protected by the Achaemenid Empire (c. 500–330 BC) and had postal stations and relays at regular intervals. By having fresh horses and riders ready at each relay, royal couriers could carry messages the entire distance[vague] in nine days, while normal travelers took about three months."
+        "description": "By the time of Herodotus (c. 475 BC), the Royal Road of the Persian Empire ran some 2,857 km (1,775 mi) from the city of Susa on the Karun (250 km (155 mi) east of the Tigris) to the port of Smyrna (modern İzmir in Turkey) on the Aegean Sea. It was maintained and protected by the Achaemenid Empire (c. 500–330 BC) and had postal stations and relays at regular intervals. By having fresh horses and riders ready at each relay, royal couriers could carry messages the entire distance[vague] in nine days, while normal travelers took about three months."
 }
     ],
     "saltRoute": [
